@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chiipzaa
-- 👀 I’m interested in Health Information, HIE, AI and Data science
+- 👀 I’m interested in Health Information, HIE, ML and Data science
 - 🌱 I’m currently learning HIE, AI and Data science (hobby)
 
 <!---
