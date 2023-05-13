@@ -1,8 +1,25 @@
 - 👋 Hi, I’m @chiipzaa
 - 👀 I’m interested in Health Information, HIE, ML and Data science
-- 🌱 I’m currently learning HIE, AI and Data science (hobby)
+- 🌱 If you want contact some project or suggestion. You can join LINE ID : chiipzaa
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q78294Y)
+## </ Coding languege >
+- Python
+- HTML (Web front end)
+- PHP (Web front end, Server side, API)
+- Javacript (Web front end, Server side, API)
+- Laravel (Web font end, API)
+- Ionic (Mobile app)
+- Flutter (Soon! 🔥)
+
+## </ Database >
+- MySQL 
+- MSSQL
+
+## </ Language >
+- 🇹🇭 [ Thailand ]: My language
+- 🇬🇧 [ English ]: A little bit
+- 🇯🇵 [ Japan ]: I can't (日本を愛してください。)
+
 
 <!---
 chiipzaa/chiipzaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
