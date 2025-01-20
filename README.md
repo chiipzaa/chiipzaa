@@ -9,7 +9,7 @@
 - Javacript (Web front end, Server side, API)
 - Laravel (Web font end, API)
 - Ionic (Mobile app)
-- Flutter (Soon! 🔥)
+
 
 ## </ Database >
 - MySQL 
